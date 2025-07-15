@@ -1,4 +1,6 @@
-## Hi there 👋
+# GO Sikhi
+Go Sikhi means leaning go (Sikhi is a Bangali word it means learning). These organisations will be used to learn and teach about GO programming.
+
 
 <!--
 
